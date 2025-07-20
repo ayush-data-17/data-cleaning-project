@@ -24,7 +24,7 @@ This project demonstrates the process of cleaning raw data in **Microsoft Excel*
 
 | Before Cleaning | After Cleaning |
 |-----------------|----------------|
-|BEFORE CLEANING( https://github.com/ayush-data-17/data-cleaning-project/blob/main/screenshots/Before%20cleaning.png) | |
+|BEFORE CLEANING( https://github.com/ayush-data-17/data-cleaning-project/blob/main/screenshots/Before%20cleaning.png) |AFTER CLEANING(https://github.com/ayush-data-17/data-cleaning-project/blob/main/screenshots/After%20Cleaning.png) |
 
 ---
 
